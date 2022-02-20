@@ -21,12 +21,15 @@
 
 
 
-<img src="./media/ammohammo2black.gif" align="right" width='50%' height='500vh'></img>
-<a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849588.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
+<img src="./media/ammohammo.gif" align="right" width='20%'></img>
+
+<a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
 - This chatbot is designed to help you manage your inventory and track your sales. You can use it to keep track of your customers and their orders, so you can see which items are selling more this month and adjust your inventory To get started, type "add customer" into the chatbot and follow the instructions. Then, type "add product" and follow the instructions. Once you have added a customer and a product, you can track their orders by typing "track customer" and "track product." The chatbot will show you a list of all the orders that your customer has placed, as well as how many of each product they have ordered. 
 - keeping track of your inventory
 - tracking your sales
 - seeing which items are selling more this month
+- You can checkout the test chatbot for this project at [Telegram](https://web.telegram.org/z/#1203590128) or search for @Foodtest2bot from mobile app.
+- You can see sheet being updated as you add items in your order [here](https://docs.google.com/spreadsheets/d/1GPMEzuC_28VxZelBfd1c9iqO6Gocbkl5SM-QqbPwYnc/edit#gid=0).
 
 ---
 
