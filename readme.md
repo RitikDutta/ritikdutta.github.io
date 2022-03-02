@@ -66,7 +66,7 @@
 <a href="https://cloud.google.com/dialogflow/docs#gh-light-mode-only" target="_blank"> <img src="./media/dialogflow_light.svg#gh-light-mode-only" alt="dialogflow" width="80" height="60"/> </a>
 <a href="https://cloud.google.com/dialogflow/docs#gh-dark-mode-only" target="_blank"> <img src="./media/dialogflow_dark.svg#gh-dark-mode-only" alt="dialogflow" width="80" height="60"/> </a>
 <a href="https://rasa.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg" alt="rasa" width="70" height="60"/> </a>
-<a href="https://aws.amazon.com/lex/#gh-light-mode-only" target="_blank"> <img src="./media/amazonlex_light.svg#gh-light-mode-only" alt="lex" width="100" height="40"/> </a>
+<a href="https://aws.amazon.com/lex/#gh-light-mode-only" target="_blank"> <img src="./media/amazonlex_light.svg#gh-light-mode-only" alt="lex" width="100" height="60"/> </a>
 <a href="https://aws.amazon.com/lex/#gh-dark-mode-only" target="_blank"> <img src="./media/amazonlex_dark.svg#gh-dark-mode-only" alt="lex" width="100" height="40"/> </a>
 
 <h4>Database</h4>
