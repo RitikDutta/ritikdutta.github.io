@@ -63,7 +63,7 @@
 <a href="https://opencv.org/https://scikit-learn.org/#gh-dark-mode-only" target="_blank"> <img src="./media/opencv_dark.svg#gh-dark-mode-only" alt="opencv" width="90" height="40"/> </a> 
 
 <h4>NLP</h4>
-<a href="https://cloud.google.com/dialogflow/docs" target="_blank"> <img src="https://cdn-www.infobip.com/wp-content/uploads/2021/12/20181746/google-dialogflow-logo.png" alt="dialogflow" width="80" height="60"/> </a>
+<a href="https://cloud.google.com/dialogflow/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Dialogflow_logo.svg" alt="dialogflow" width="80" height="60"/> </a>
 <a href="https://rasa.com/" target="_blank"> <img src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/710/500/original/rasa_logo_horizontal_purple.png" alt="rasa" width="70" height="40"/> </a>
 <a href="https://aws.amazon.com/lex/" target="_blank"> <img src="https://www.bitext.com/wp-content/uploads/2020/04/amazon-lex.jpg" alt="lex" width="100" height="40"/> </a>
 
