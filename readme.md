@@ -56,7 +56,8 @@
 
 <a href="https://pytorch.org/#gh-light-mode-only" target="_blank"> <img src="./media/pytorch_light.svg#gh-light-mode-only" alt="pytorch" width="90" height="40"/> </a>
 <a href="https://pytorch.org/#gh-dark-mode-only" target="_blank"> <img src="./media/pytorch_dark.svg#gh-dark-mode-only" alt="pytorch" width="90" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/#gh-light-mode-only" target="_blank"> <img src="./media/sklearn_light.svg#gh-light-mode-only" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/#gh-dark-mode-only" target="_blank"> <img src="./media/sklearn_dark.svg#gh-dark-mode-only" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="90" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="90" height="40"/> </a> 
 
