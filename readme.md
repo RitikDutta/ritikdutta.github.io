@@ -21,11 +21,11 @@
 
 
 
-<!-- (<img src="./media/ammohammo.gif" align="right" width='20%'></img>#gh-dark-mode-only) -->
-<!-- (<img src="./media/ammohammo_dark.gif" align="right" width='20%'></img>#gh-light-mode-only) -->
+(<img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>)
+(<img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>)
 
-![chat](./media/ammohammo.gif#gh-light-mode-only)
-![chat](./media/ammohammo_dark.gif#gh-dark-mode-only)
+<!-- ![chat](./media/ammohammo.gif#gh-light-mode-only)
+![chat](./media/ammohammo_dark.gif#gh-dark-mode-only) -->
 
 
 
