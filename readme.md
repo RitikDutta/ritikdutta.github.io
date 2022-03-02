@@ -21,8 +21,8 @@
 
 
 
-(<img src="./media/ammohammo.gif" align="right" width='20%'></img>gh-dark-mode-only)
-(<img src="./media/ammohammo_dark.gif" align="right" width='20%'></img>gh-light-mode-only)
+(<img src="./media/ammohammo.gif" align="right" width='20%'></img>#gh-dark-mode-only)
+(<img src="./media/ammohammo_dark.gif" align="right" width='20%'></img>#gh-light-mode-only)
 
 
 <a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
