@@ -65,7 +65,7 @@
 <h4>NLP</h4>
 <a href="https://cloud.google.com/dialogflow/docs#gh-light-mode-only" target="_blank"> <img src="./media/dialogflow_light.svg#gh-light-mode-only" alt="dialogflow" width="80" height="60"/> </a>
 <a href="https://cloud.google.com/dialogflow/docs#gh-dark-mode-only" target="_blank"> <img src="./media/dialogflow_dark.svg#gh-dark-mode-only" alt="dialogflow" width="80" height="60"/> </a>
-<a href="https://rasa.com/" target="_blank"> <img src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/710/500/original/rasa_logo_horizontal_purple.png" alt="rasa" width="70" height="40"/> </a>
+<a href="https://rasa.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg" alt="rasa" width="70" height="40"/> </a>
 <a href="https://aws.amazon.com/lex/" target="_blank"> <img src="https://www.bitext.com/wp-content/uploads/2020/04/amazon-lex.jpg" alt="lex" width="100" height="40"/> </a>
 
 <h4>Database</h4>
