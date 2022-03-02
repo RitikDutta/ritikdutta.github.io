@@ -59,7 +59,8 @@
 <a href="https://scikit-learn.org/#gh-light-mode-only" target="_blank"> <img src="./media/sklearn_light.svg#gh-light-mode-only" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/#gh-dark-mode-only" target="_blank"> <img src="./media/sklearn_dark.svg#gh-dark-mode-only" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="90" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="90" height="40"/> </a> 
+<a href="https://opencv.org/https://scikit-learn.org/#gh-light-mode-only" target="_blank"> <img src="./media/opencv_light.svg#gh-light-mode-only" alt="opencv" width="90" height="40"/> </a> 
+<a href="https://opencv.org/https://scikit-learn.org/#gh-dark-mode-only" target="_blank"> <img src="./media/opencv_dark.svg#gh-dark-mode-only" alt="opencv" width="90" height="40"/> </a> 
 
 <h4>NLP</h4>
 <a href="https://cloud.google.com/dialogflow/docs" target="_blank"> <img src="https://cdn-www.infobip.com/wp-content/uploads/2021/12/20181746/google-dialogflow-logo.png" alt="dialogflow" width="80" height="60"/> </a>
