@@ -24,8 +24,8 @@
 <!-- (<img src="./media/ammohammo.gif" align="right" width='20%'></img>#gh-dark-mode-only) -->
 <!-- (<img src="./media/ammohammo_dark.gif" align="right" width='20%'></img>#gh-light-mode-only) -->
 
-![chat](./media/ammohammo.gif#gh-dark-mode-only)
-![chat](./media/ammohammo_dark.gif#gh-light-mode-only)
+![chat](./media/ammohammo.gif#gh-light-mode-only)
+![chat](./media/ammohammo_dark.gif#gh-dark-mode-only)
 
 
 
