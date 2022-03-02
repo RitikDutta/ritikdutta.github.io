@@ -21,8 +21,8 @@
 
 
 
-(<img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>)
-(<img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>)
+<img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>
+<img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>
 
 <!-- ![chat](./media/ammohammo.gif#gh-light-mode-only)
 ![chat](./media/ammohammo_dark.gif#gh-dark-mode-only) -->
