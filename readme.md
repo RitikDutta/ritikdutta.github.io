@@ -21,7 +21,9 @@
 
 
 
-<img src="./media/ammohammo.gif" align="right" width='20%'></img>
+(<img src="./media/ammohammo.gif" align="right" width='20%'></img>gh-dark-mode-only)
+(<img src="./media/ammohammo_dark.gif" align="right" width='20%'></img>gh-light-mode-only)
+
 
 <a href="https://github.com/RitikDutta/Food-Divilery-chatbot" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/849/849551.png" alt="Food bot" width="40" height="40"/> Food Delivery Chatbot </a> 
 - This chatbot is designed to help you manage your inventory and track your sales. You can use it to keep track of your customers and their orders, so you can see which items are selling more this month and adjust your inventory To get started, type "add customer" into the chatbot and follow the instructions. Then, type "add product" and follow the instructions. Once you have added a customer and a product, you can track their orders by typing "track customer" and "track product." The chatbot will show you a list of all the orders that your customer has placed, as well as how many of each product they have ordered. 
