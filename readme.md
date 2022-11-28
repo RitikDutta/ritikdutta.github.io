@@ -132,9 +132,9 @@
 
 ### 📝 You can find my other articles on [medium](https://medium.com/@ritikduttagd)
 ## Some of my articles are:
-# - [Lenet Explained](https://medium.com/@ritikduttagd/lenet-in-a-nutshell-2303330cc7db)
-# - [K-Means Explained](https://medium.com/@ritikduttagd/k-means-in-a-nutshell-6d06c7a78ff7)
-# - [Principal Component Analysis](https://medium.com/@ritikduttagd/principal-component-analysis-pca-in-a-nutshell-6e422e1bb529)
+### - [Lenet Explained](https://medium.com/@ritikduttagd/lenet-in-a-nutshell-2303330cc7db)
+### - [K-Means Explained](https://medium.com/@ritikduttagd/k-means-in-a-nutshell-6d06c7a78ff7)
+### - [Principal Component Analysis](https://medium.com/@ritikduttagd/principal-component-analysis-pca-in-a-nutshell-6e422e1bb529)
 
 #### You can also find me on- 
 
