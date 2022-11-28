@@ -65,15 +65,15 @@
 <h4>NLP</h4>
 <a href="https://cloud.google.com/dialogflow/docs#gh-light-mode-only" target="_blank"> <img src="./media/dialogflow_light.svg#gh-light-mode-only" alt="dialogflow" width="80" height="60"/> </a>
 <a href="https://cloud.google.com/dialogflow/docs#gh-dark-mode-only" target="_blank"> <img src="./media/dialogflow_dark.svg#gh-dark-mode-only" alt="dialogflow" width="80" height="60"/> </a>
-<a href="https://rasa.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg" alt="rasa" width="70" height="60"/> </a>
+<!-- <a href="https://rasa.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg" alt="rasa" width="70" height="60"/> </a>
 <a href="https://aws.amazon.com/lex/#gh-light-mode-only" target="_blank"> <img src="./media/amazonlex_light.svg#gh-light-mode-only" alt="lex" width="100" height="60"/> </a>
-<a href="https://aws.amazon.com/lex/#gh-dark-mode-only" target="_blank"> <img src="./media/amazonlex_dark.svg#gh-dark-mode-only" alt="lex" width="100" height="60"/> </a>
+<a href="https://aws.amazon.com/lex/#gh-dark-mode-only" target="_blank"> <img src="./media/amazonlex_dark.svg#gh-dark-mode-only" alt="lex" width="100" height="60"/> </a> -->
 
 <h4>Database</h4>
 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" width="90" height="50"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="90" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="90" height="50"/> </a> 
+<!-- <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="90" height="50"/> </a>  -->
 
 <h4>Devops</h4>
 
@@ -91,9 +91,9 @@
 <h4>Backend</h4>
 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="90" height="40"/> </a>
-<a href="https://aws.amazon.com/#gh-light-mode-only" target="_blank"> <img src="./media/aws_light.svg#gh-light-mode-only" alt="aws" width="90" height="50"/> </a> 
+<!-- <a href="https://aws.amazon.com/#gh-light-mode-only" target="_blank"> <img src="./media/aws_light.svg#gh-light-mode-only" alt="aws" width="90" height="50"/> </a> 
 <a href="https://aws.amazon.com/#gh-dark-mode-only" target="_blank"> <img src="./media/aws_dark.svg#gh-dark-mode-only" alt="aws" width="90" height="50"/> </a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a> -->
 
 <h4>Framework</h4>
 <a href="https://flask.palletsprojects.com/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/flask_light.svg#gh-light-mode-only" alt="flask" width="90" height="40"/> </a>
@@ -131,7 +131,10 @@
 ### 📝 My Articles are published on world's leading DataScience publication [Analytics Vidhya](https://medium.com/analytics-vidhya/alexnet-in-a-nutshell-4a9445e92d6d)
 
 ### 📝 You can find my other articles on [medium](https://medium.com/@ritikduttagd)
-
+## Some of my articles are:
+# - [Lenet Explained](https://medium.com/@ritikduttagd/lenet-in-a-nutshell-2303330cc7db)
+# - [K-Means Explained](https://medium.com/@ritikduttagd/k-means-in-a-nutshell-6d06c7a78ff7)
+# - [Principal Component Analysis](https://medium.com/@ritikduttagd/principal-component-analysis-pca-in-a-nutshell-6e422e1bb529)
 
 #### You can also find me on- 
 
