@@ -1,10 +1,9 @@
 <h1 align="center">Hey It's Ritik</h1>
 
-><h2>Founder and  Working in in my tech-startup [WellBaked.tech] providing AI/ML solutions.
+<h2>Founder and  Working in in my tech-startup [WellBaked.tech] providing AI/ML solutions.
 [WellBaked.tech](https://wellbakedtechteam.github.io/wellbakedtech)
-
-<br>
 </h2>
+<br>
 
 ---
 ### I have technical experience and interest in -
