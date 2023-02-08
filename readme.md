@@ -20,6 +20,25 @@
 
 
 
+
+
+ <a href="https://github.com/RitikDutta/Company-work-environment-management" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/512/external-productivity-work-from-home-sbts2018-flat-sbts2018.png" alt="Food bot" width="40" height="40"/> Company-work-environment-management</a>
+ 
+ <br><br><br>
+ <img src="./media/pose_rec.gif" align="left" width='20%'></img>
+ <img src="./media/face_rec.gif#gh-light-mode-only" align="right" width='20%'></img>
+<img src="./media/face_rec.gif#gh-dark-mode-only" align="right" width='20%'></img>
+<!-- <img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="left" width='20%'></img> -->
+- Detects whether the right person is sitting in front of the camera. 
+- Do not collect private photos of faces and pose, only the mathematical data of it.
+- Tracks key points on the face (such as eyes, mouth) to identify specific activities.
+- Classifies the type of activity the user is performing (e.g. taking a phone call, looking away from the screen, sleeping, looking tired).
+- Lightweight and runs in the browser.
+- Sends summary data about activities to a central server in JSON format, without transmitting any images or videos.
+
+<br><br><br><br><br><br>
+
+
 <img src="./media/ammohammo.gif#gh-light-mode-only" align="right" width='20%'></img>
 <img src="./media/ammohammo_dark.gif#gh-dark-mode-only" align="right" width='20%'></img>
 
@@ -76,16 +95,19 @@
 
 <h4>Devops</h4>
 
-<a href="https://aws.amazon.com/#gh-light-mode-only" target="_blank"> <img src="./media/aws_light.svg#gh-light-mode-only" alt="aws" width="90" height="50"/> </a> 
+<!-- <a href="https://aws.amazon.com/#gh-light-mode-only" target="_blank"> <img src="./media/aws_light.svg#gh-light-mode-only" alt="aws" width="90" height="50"/> </a> 
 <a href="https://aws.amazon.com/#gh-dark-mode-only" target="_blank"> <img src="./media/aws_dark.svg#gh-dark-mode-only" alt="aws" width="90" height="50"/> </a> 
 <a href="https://www.jenkins.io#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/jenkins_light.svg#gh-light-mode-only" alt="jenkins" width="90" height="40"/> </a>
 <a href="https://www.jenkins.io#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/jenkins_dark.svg#gh-dark-mode-only" alt="jenkins" width="90" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="80" height="40"/> </a>
 <a href="https://kubernetes.io#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/kuber_light.svg#gh-light-mode-only" alt="kubernetes" width="90" height="50"/> </a>
-<a href="https://kubernetes.io#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/kuber_dark.svg#gh-dark-mode-only" alt="kubernetes" width="90" height="50"/> </a>
-<a href="https://mlflow.org/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_light.svg#gh-light-mode-only" alt="MLflow" width="90" height="30"/> </a>
-<a href="https://mlflow.org/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_dark.svg#gh-dark-mode-only" alt="MLflow" width="90" height="30"/> </a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="MLflow" width="100" height="30"/> </a>
+<a href="https://kubernetes.io#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/kuber_dark.svg#gh-dark-mode-only" alt="kubernetes" width="90" height="50"/> </a> -->
+
+<a href="https://circleci.com#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/circleci_light.svg#gh-light-mode-only" alt="circle-ci" width="90" height="30"/> </a>
+<a href="https://circleci.com#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/circleci_dark.svg#gh-dark-mode-only" alt="circle-ci" width="90" height="30"/> </a>
+<a href="https://mlflow.org/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_dark.svg#gh-light-mode-only" alt="MLflow" width="90" height="30"/> </a>
+<a href="https://mlflow.org/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/mlflow_light.svg#gh-dark-mode-only" alt="MLflow" width="90" height="30"/> </a>
+<a href="https://dvc.org/doc/use-cases/ci-cd-for-machine-learning" target="_blank" rel="noreferrer"> <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="MLflow" width="100" height="30"/> </a>
 
 <h4>Backend</h4>
 
@@ -97,7 +119,7 @@
 <h4>Framework</h4>
 <a href="https://flask.palletsprojects.com/#gh-light-mode-only" target="_blank" rel="noreferrer"> <img src="./media/flask_light.svg#gh-light-mode-only" alt="flask" width="90" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/#gh-dark-mode-only" target="_blank" rel="noreferrer"> <img src="./media/flask_dark.svg#gh-dark-mode-only" alt="flask" width="90" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="./media/django.svg" alt="django" width="60" height="40"/> </a>
 
 <h4>Tools</h4>
 
